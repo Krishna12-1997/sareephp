@@ -1,0 +1,163 @@
+
+    [
+        {
+          "id": 1,
+          "name": "Silk Saree",
+          "category_id": "1",
+          "color": "Red",
+          "price": 2500,
+          "fabric": "Pure Silk",
+          "description": "This beautiful silk saree is perfect for special occasions and events.",
+          "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/0/t/b/free-nc84-amrapali-black-us-fashion-unstitched-original-imaghzzkaxkjzxyz.jpeg?q=70"
+        },
+        {
+          "id": 2,
+          "name": "Kanjivaram Saree",
+          "color": "Green",
+          "price": 5000,
+          "fabric": "Silk",
+          "description": "The traditional Kanjivaram saree showcases intricate weaving patterns and rich colors.",
+          "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/w/5/n/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzywzyk5ry-bb.jpeg?q=70",
+          "category_id": "2"
+        },
+        {
+          "id": 3,
+          "name": "Chiffon Saree",
+          "category_id": "1",
+          "color": "Blue",
+          "price": 1500,
+          "fabric": "Chiffon",
+          "description": "Lightweight and elegant, this chiffon saree offers a graceful drape.",
+          "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/v/b/free-w-moti-black-sarees-green-sarees-party-wear-sarees-original-imagjnmhgbdbf59e.jpeg?q=70"
+        },
+        {
+          "id": 4,
+          "name": "Banarasi Saree",
+          "color": "Gold",
+          "price": 6000,
+          "fabric": "Silk",
+          "description": "The Banarasi saree is renowned for its opulent designs and luxurious silk fabric.",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR6ho8l6E6uVERrdyF72RN8Xka56LlEg4JouMv1f38MhKXRsHUdnH_FvTXIxCLNeWrAk8ilaiWDCJdCAQT2tFgkib0f2kbsKAXFmo83AVE",
+          "category_id": "2"
+        },
+        {
+          "id": 5,
+          "name": "Georgette Saree",
+          "category_id": "1",
+          "color": "Pink",
+          "price": 2000,
+          "fabric": "Georgette",
+          "description": "This georgette saree exudes elegance with its flowing fabric and delicate detailing.",
+          "image": "https://images.meesho.com/images/products/193876329/ntzc6_512.webp"
+        },
+        {
+          "id": 6,
+          "name": "Cotton Saree",
+          "color": "Yellow",
+          "price": 1000,
+          "fabric": "Cotton",
+          "description": "Comfortable and breathable, this cotton saree is perfect for casual wear.",
+          "image": "https://assets.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8774-1-grey-digital-print-saree-in-cotton-sr23733_1_.jpg",
+          "category_id": "2"
+        },
+        {
+          "id": 7,
+          "name": "Bandhani Saree",
+          "category_id": "1",
+          "color": "Multicolor",
+          "price": 1800,
+          "fabric": "Cotton",
+          "description": "The vibrant and traditional bandhani saree showcases intricate tie-dye patterns.",
+          "image": "https://cdn.shopify.com/s/files/1/0676/2712/2988/products/IMG_7307_2f064d08-12c8-4b98-912a-ed6736db8ee8_1400x.jpg?v=1669450706"
+        },
+        {
+          "id": 8,
+          "name": "Tussar Saree",
+          "color": "Beige",
+          "price": 3000,
+          "fabric": "Tussar Silk",
+          "description": "Crafted from fine Tussar silk, this saree offers a unique texture and natural sheen.",
+          "image": "https://assets.panashindia.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/4/6/4647sr03-10896.jpg",
+          "category_id": "2"
+        },
+        {
+          "id": 9,
+          "name": "Kalamkari Saree",
+          "color": "Maroon",
+          "price": 4000,
+          "fabric": "Cotton",
+          "description": "The Kalamkari saree showcases hand-painted motifs and intricate artistic designs.",
+          "image": "https://cdn.shopify.com/s/files/1/1760/4649/products/kalamkari-saree-cornflower-blue-kalamkari-saree-silk-saree-online-32703478399169.jpg?v=1658819286",
+          "category_id": "2"
+        },
+        {
+          "id": 10,
+          "name": "Net Saree",
+          "color": "Black",
+          "price": 3500,
+          "fabric": "Net",
+          "description": "Featuring sheer net fabric and embellishments, this saree adds a touch of glamour.",
+          "image": "https://cdn.shopify.com/s/files/1/0049/3649/9315/products/koskii-lavender-zariwork-net-designer-saree-saus0020511_lavender_1_1800x1800.jpg?v=1652713251",
+          "category_id": "2"
+        },
+        {
+          "id": 11,
+          "name": "Kota Doria Saree",
+          "color": "White",
+          "price": 2800,
+          "fabric": "Kota Doria",
+          "description": "The Kota Doria saree is known for its lightweight and translucent cotton fabric.",
+          "image": "https://m.theblockart.com/ImageStorage/BA2028042022212908548262.jpeg",
+          "category_id": "2"
+        },
+        {
+          "id": 12,
+          "name": "Tant Saree",
+          "color": "Orange",
+          "price": 1200,
+          "fabric": "Cotton",
+          "description": "The Tant saree from West Bengal features intricate handloom weaves and vibrant colors.",
+          "image": "https://shavicreation.com/data/26052107070000191914112-1.JPG",
+          "category_id": "2"
+        },
+        {
+          "id": 13,
+          "name": "Patola Saree",
+          "category_id": "1",
+          "color": "Purple",
+          "price": 5500,
+          "fabric": "Silk",
+          "description": "The Patola saree showcases double ikat weaving technique and rich, colorful designs.",
+          "image": "https://cdn.shopify.com/s/files/1/1760/4649/products/PATOLASILKVOL2-F_3.jpg?v=1670400471"
+        },
+        {
+          "id": 14,
+          "name": "Mysore Silk Saree",
+          "category_id": "1",
+          "color": "Navy Blue",
+          "price": 4200,
+          "fabric": "Silk",
+          "description": "Exuding regal charm, the Mysore silk saree is known for its intricate zari work.",
+          "image": "https://s3.ap-south-1.amazonaws.com/tcsonline-live/catalog/product/cache/afad95d7734d2fa6d0a8ba78597182b7/t/h/the_chennai_silks__pid3098615-5995__tcs_silk_set3_pujitha_front__2023-2-16-12-33-11__1090x1450.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Kota Silk Saree",
+          "color": "Peach",
+          "price": 3200,
+          "fabric": "Kota Silk",
+          "description": "The Kota Silk saree features a distinctive square-shaped weave and delicate texture.",
+          "image": "https://www.suvasa.in/media/catalog/product/cache/8ce22989caef6bbbeab1438da71c7d81/4/_/4_-_300_dpi_copy.jpg",
+          "category_id": "2"
+        },
+        {
+          "id": 16,
+          "name": "Linen Saree",
+          "category_id": "1",
+          "color": "Grey",
+          "price": 2600,
+          "fabric": "Linen",
+          "description": "Crafted from breathable linen fabric, this saree offers a comfortable and stylish look.",
+          "image": "https://cdn.shopify.com/s/files/1/0560/2227/0115/products/final-1_e78c754d-5659-4afa-8921-48fb0d40f1ff_1800x1800.jpg?v=1648817718"
+        }
+      ]
